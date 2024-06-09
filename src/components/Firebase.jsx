@@ -7,14 +7,14 @@ import {getFirestore} from "firebase/firestore";
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-    apiKey: "AIzaSyC3h4xLuSWVYj9uNEFQ3a7IVBFweh_jGUw",
-    authDomain: "mlsc-bc6ee.firebaseapp.com",
-    projectId: "mlsc-bc6ee",
-    storageBucket: "mlsc-bc6ee.appspot.com",
-    messagingSenderId: "855425847910",
-    appId: "1:855425847910:web:c71a8947691a0da35953a7",
-    measurementId: "G-17J0K5D7YT"
-};
+    apiKey: "AIzaSyD-8Nfp3r3qjeLe7Rtt-0qEPUFDwAGu1yw",
+    authDomain: "hacktifyhomematch.firebaseapp.com",
+    projectId: "hacktifyhomematch",
+    storageBucket: "hacktifyhomematch.appspot.com",
+    messagingSenderId: "603634017476",
+    appId: "1:603634017476:web:d1052c18f689b3499f1591",
+    measurementId: "G-1JJ2REXW7W"
+  };
 
 // Initialize Firebase
 const app = initializeApp(firebaseConfig);
